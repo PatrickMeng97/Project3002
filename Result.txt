@@ -1,0 +1,56 @@
+The warping distance is -13.8593
+The traing data set has 13 image
+The maximum detection image number is 6
+
+The warping distance is -13.9687
+The traing data set has 13 image
+The maximum detection image number is 6
+
+The warping distance is -14
+The traing data set has 13 image
+The maximum detection image number is 6
+
+The warping distance is -13.9218
+The traing data set has 13 image
+The maximum detection image number is 6
+
+The warping distance is -13.8593
+The traing data set has 13 image
+The maximum detection image number is 6
+
+The warping distance is -13.9687
+The traing data set has 13 image
+The maximum detection image number is 6
+
+The warping distance is -14
+The traing data set has 13 image
+The maximum detection image number is 6
+
+The warping distance is -13.9218
+The traing data set has 13 image
+The maximum detection image number is 6
+
+The warping distance is -6.86155
+The traing data set has 6 image
+The maximum detection image number is 89
+
+The warping distance is -6.99674
+The traing data set has 6 image
+The maximum detection image number is 89
+
+Test image have blink
+Eye blink duration is 3 second
+-----------------------------------------------------------------------------------------------------
+
+The warping distance is -6.92964
+The traing data set has 6 image
+The maximum detection image number is 13
+
+The warping distance is -6.98436
+The traing data set has 6 image
+The maximum detection image number is 13
+
+Test image have blink
+Eye blink duration is 0.5 second
+----------------------------------------------------------------------------------------------------- 
+
